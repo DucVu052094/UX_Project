@@ -1,0 +1,4 @@
+happiness and joy palette:
+primary: yellow rgb(255, 255, 77)
+secondary: orange rgb(255, 175, 26)
+accent: gold rgb(255, 215, 0)
